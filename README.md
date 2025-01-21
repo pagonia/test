@@ -32,6 +32,8 @@
 <details>
 <summary> 2025</summary>
 
+- **January 21, 2025** This is a test.
+
 - **January 08, 2025** We are no longer requiring customers to accept the ___Term And Conditions___ for the SEPA Instant feature prior to performing the first transfer. There are no longer any fees associated with SEPA Instant.
 
 </details>
